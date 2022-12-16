@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyZakatSelangorApplication</string>
+    <string-array name="status">
+        <item>Wear</item>
+        <item>Keep</item>
+    </string-array>
+    <string name="copyright">Copyright@ZakatItuRukunIslam</string>
+    <string name="About_text">Source code link </string>
+    <string name="developer"> NAME: NURADILA BINTI NORZAIN</string>
+    <string name="developer_id"> STUDENT ID : 2021986421 </string>
+    <string name="group"> GROUP: RCS2404A </string>
+    <string name="program_code"> PROGRAMME CODE : CS240</string>
+</resources>
